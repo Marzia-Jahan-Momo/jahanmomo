@@ -1,8 +1,10 @@
 ![Header](https://your-header-image-url.com)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jahanmomo.jahanmomo" />! 👋
+<img align="right" src="[visitors](https://visitor-badge.laobi.icu/badge?page_id=jahanmomo.jahanmomo" />! 👋
 
-### DevOps Engineer | Cloud Enthusiast | Automation Expert
+<div align="center">
+## DevOps Engineer | Cloud Enthusiast | Automation Expert
+</div>
 
 ![Animated Welcome](https://your-animation-url.com)
 
@@ -12,12 +14,12 @@
 
 I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines. I love automating processes, optimizing cloud infrastructure, and ensuring smooth deployments.
 
-- 🔭 I’m currently working on enhancing my skills in **MLOps** and **AIOps**
-- 🌱 I’m currently learning **AWS Cost Management and Optimization**
-- 👯 I’m looking to collaborate on **open source DevOps projects**
-- 🤔 I’m looking for help with **advanced Kubernetes networking**
-- 💬 Ask me about **DevOps, Cloud, and Automation**
-- 📫 How to reach me: [Email](mailto:youremail@example.com)
+🔭 I’m currently working on enhancing my skills in **MLOps** and **AIOps**
+🌱 I’m currently learning **AWS Cost Management and Optimization**
+👯 I’m looking to collaborate on **open source DevOps projects**
+🤔 I’m looking for help with **advanced Kubernetes networking**
+💬 Ask me about **DevOps, Cloud, and Automation**
+📫 How to reach me: [Email](mailto:jahanmomo11@gmail.com)
 </div>
 ---
 
@@ -33,13 +35,13 @@ I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform,
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
-
+<div align="center">
 ## 📈 GitHub Stats
 
 ![Marzia's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahanmomo&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahanmomo&layout=compact&theme=radical)
-
+</div>
 ---
 
 ## 🔗 Connect with Me
@@ -54,7 +56,6 @@ I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform,
 
 I love solving complex problems and making systems run smoothly, and in my free time, I enjoy exploring new technologies and contributing to open-source projects.
 
-![Footer Animation](https://your-footer-animation-url.com)
 
 ---
 
