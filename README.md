@@ -1,13 +1,13 @@
 ![Header](https://your-header-image-url.com)
 
-# Hi there, I'm Marzia Jahan Momo! 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jahanmomo.jahanmomo" />! 👋
 
 ### DevOps Engineer | Cloud Enthusiast | Automation Expert
 
 ![Animated Welcome](https://your-animation-url.com)
 
 ---
-
+<div align="center">
 ## 🚀 About Me
 
 I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines. I love automating processes, optimizing cloud infrastructure, and ensuring smooth deployments.
@@ -18,7 +18,7 @@ I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform,
 - 🤔 I’m looking for help with **advanced Kubernetes networking**
 - 💬 Ask me about **DevOps, Cloud, and Automation**
 - 📫 How to reach me: [Email](mailto:youremail@example.com)
-
+</div>
 ---
 
 ## 🛠️ Skills
@@ -44,24 +44,9 @@ I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform,
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedinprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/m-j-momo)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jahanmomo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourtwitterhandle)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yourwebsite.com)
-
----
-
-## 🌟 Featured Projects
-
-### Project 1: [E-Commerce Platform](https://github.com/jahanmomo/e-commerce-platform)
-An e-commerce platform built with Python Django, featuring a fully functional cart, payment gateway integration, and a responsive design.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jahanmomo&repo=e-commerce-platform&theme=radical)
-
-### Project 2: [DevOps Automation Scripts](https://github.com/jahanmomo/devops-automation-scripts)
-A collection of automation scripts for CI/CD, infrastructure provisioning, and monitoring.
-
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=jahanmomo&repo=devops-automation-scripts&theme=radical)
+[![Twitter or X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/M_J_Momo)
 
 ---
 
