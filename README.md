@@ -6,12 +6,10 @@
 
 I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform, Docker, and CI/CD pipelines. I love automating processes, optimizing cloud infrastructure, and ensuring smooth deployments.
 
-🔭 I’m currently working on enhancing my skills in **MLOps** and **AIOps**
-🌱 I’m currently learning **AWS Cost Management and Optimization**
-👯 I’m looking to collaborate on **open source DevOps projects**
-🤔 I’m looking for help with **advanced Kubernetes networking**
-💬 Ask me about **DevOps, Cloud, and Automation**
-📫 How to reach me: [Email](mailto:jahanmomo11@gmail.com)
+- 🔭 I’m currently working & enhancing my skills on **DevOps**  
+- 🌱 I’m currently learning **MLOps** and **AIOps**
+- 👯 I’m looking to collaborate on **open source DevOps projects**
+- 📫 How to reach me: [Email](mailto:jahanmomo11@gmail.com)
 ---
 
 ## 🛠️ Skills
