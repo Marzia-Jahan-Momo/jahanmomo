@@ -1,22 +1,7 @@
-<h1 align="center">Hi <span class="wave">👋</span>, I'm Marzia Jahan Momo!</h1>
-
-<style>
-  .wave {
-    display: inline-block;
-    animation: wave-animation 2.5s infinite;
-    transform-origin: 70% 70%;
-  }
-  @keyframes wave-animation {
-    0% { transform: rotate(0deg); }
-    10% { transform: rotate(14deg); }
-    20% { transform: rotate(-8deg); }
-    30% { transform: rotate(14deg); }
-    40% { transform: rotate(-4deg); }
-    50% { transform: rotate(10deg); }
-    60% { transform: rotate(0deg); }
-    100% { transform: rotate(0deg); }
-  }
-</style>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Marzia Jahan Momo!
+</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Expert</h3>
 
 <h3 align="center">A DevOps Engineer | Cloud Enthusiast | Automation Expert </h3>
 
