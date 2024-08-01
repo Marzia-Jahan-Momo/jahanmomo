@@ -44,11 +44,3 @@ I am a passionate DevOps Engineer with experience in AWS, Kubernetes, Terraform,
 [![Twitter or X](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/M_J_Momo)
 
 ---
-
-## 🎉 Fun Fact
-
-I love solving complex problems and making systems run smoothly, and in my free time, I enjoy exploring new technologies and contributing to open-source projects.
-
----
-
-*Feel free to explore my repositories and connect with me!*
