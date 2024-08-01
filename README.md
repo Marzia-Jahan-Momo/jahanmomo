@@ -1,6 +1,24 @@
-<h1 align="center">Hi 👋, I'm Marzia Jahan Momo!</h1>
-<h3 align="center">A DevOps Engineer | Cloud Enthusiast | Automation Expert </h3>
-</div>
+<h1 align="center">Marzia Jahan Momo <span class="wave">👋</span></h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation Expert</h3>
+
+<style>
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(14deg); }
+    20% { transform: rotate(-8deg); }
+    30% { transform: rotate(14deg); }
+    40% { transform: rotate(-4deg); }
+    50% { transform: rotate(10deg); }
+    60% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
+  }
+
+  .wave {
+    display: inline-block;
+    animation: wave-animation 2s infinite;
+    transform-origin: 70% 70%;
+  }
+</style>
 
 ## 💬 About Me
 
